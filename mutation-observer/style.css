@@ -1,0 +1,18 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: blue;
+  padding: 1rem;
+}
+
+div {
+  background-color: #fff;
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
